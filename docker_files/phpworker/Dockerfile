@@ -6,7 +6,7 @@ COPY docker_files/phpworker/start.sh /usr/local/bin/start
 RUN chmod u+x  /usr/local/bin/start
 RUN chown $uid:$uid  /usr/local/bin/start
 RUN mkdir -p /.composer
-RUN chown $uid:$uid  /.composer  -R
+RUN chown $uid:$uid  /.composer  -R 
 
 USER $uid
 
