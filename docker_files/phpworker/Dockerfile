@@ -1,4 +1,4 @@
-FROM appworldhu/promptchat:php3.1
+FROM promptchatbuilder/promptchat:php3.1
 
 ARG uid
 

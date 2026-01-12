@@ -1,4 +1,4 @@
-FROM appworldhu/promptchat:php3.1
+FROM promptchatbuilder/promptchat:php3.1
 ARG uid
 RUN usermod -u $uid www-data; exit 0
 RUN apk add ffmpeg
