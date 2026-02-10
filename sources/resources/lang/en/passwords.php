@@ -1,2 +1,18 @@
-<?php 
- return Encryption\Decryptor::decrypt("jbiIqKvN7eys4oWe3C4iFDBrJNCglexk6D72JroepWOR/mBNOTCtZN3NT2Ya3begUOTjszC1dShvDkJkoiEI1dMW6iMYr1/421KapH0PtZG7X993DFfG67gi6pyzYVFfGPVgY2SJ8eVWNl7SbCprOl15YDklFZybQm1VrsZ41WebQFCObHr9PAtfisxMTbibQ2C35y/39PlFDXBLD7OHTf2du8qPsR2i/2SoLC8dhuUzOz8aAAI5h8PuMXE/xABkC5unDrbbkqV2Hx13Qz4jgW18ElAc+ljOxdqIea2h4HCIm2lDExnZoNVaPzlc4K1ERFTWb+Vdl/pF99x0EAHgZCflGP2O9s1wKEnMED8t5EQ/T0KvHto3x+L0YtAwc0HA2VpPCNIOTQiThttbEn4pK++LtMlQ5ja9zXbru+I2LulUB7q5NG9gKdRVP9FK4XY078Ki8gSc4Fm6+ONYDyucK/EGo1Sa8T+seGyKQEFKjUM/5Tc9NiIWH3/OazW8fVDWkR7qwbcjVmYx8NqNC6+BVRN+hyeEXt4VqHvv9C27d7ncpPoFF5HAop2f05Gc833gZYvNQb0+v9L327HP8UbNFG3OtsG4SvQSLeOnnpC9i6o429yGH1YCHfXdFtkq0tza+Irog9zNOWCRzJt4mvXRbDjJf/cOQw6lXfUFWHv82VA7tfLxnMg2H0DZ1QQTqSzSmG6Pkr1LDmxpW1KcyK/KCSIqZE9qoc2ywkwVFfsBfXTwT+DFenGYBn64QKQs1abZQ5Zo8zC+NYvR/REf5abi+A4I6XknxRSHnY+tJ4zOIe6srhmK9FEcVOS+olSMWE40DiYhSEUnOY8jQZ/DIJC/YMQG16ppC/4urg0tK+mnQ31fd1dLNh9+PLGMQhqcV+WIEUKPx8y8/1phJklbSYKT3+sYN8JPhdARsGePKqKZO2Qz4PyN749AjORxpLoyMzZkU/S0nvsM5o5WBQtpJJkY0rrjg7CfIWgFODPOt9UzItVYO64k5PrPYSxwBhiOhrF23VphICuvuw==");
+<?php return [
+    /*
+    |--------------------------------------------------------------------------
+    | Password Reset Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are the default lines which match reasons
+    | that are given by the password broker for a password update attempt
+    | has failed, such as for an invalid token or invalid new password.
+    |
+    */
+
+    'reset' => 'Your password has been reset!',
+    'sent' => 'We have emailed your password reset link!',
+    'throttled' => 'Please wait before retrying.',
+    'token' => 'This password reset token is invalid.',
+    'user' => "We can't find a user with that email address.",
+];

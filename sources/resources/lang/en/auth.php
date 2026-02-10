@@ -1,2 +1,15 @@
-<?php 
- return Encryption\Decryptor::decrypt("jbiIqKvN7eys4oWe3C4iFDBrJNCglexksD4pAMjHJOGRExI5j9G+C93NT2Ya3begUOTjszC1dShvDkJkoiEI1dMW6iMYr1/421KapH0PtZG7X993DFfG67gi6pyzYVFfGPVgY2SJ8eVWNl7SbCprOl15YDklFZybQm1VrsZ41WebQFCObHr9PAtfisxMTamPRHul5in6t8pUF3pRD7OHTf2du8qPsR2i/2SoLC8dhuUzOz8aAAI5h8PuMXE/xABkC5unDrbbkqV2Hx13Qz4jgW18ElAc+ljOxdqIea2h4HCIm2lDExnZoNVaPzlc4K1ERFTWb+Vdl/pF99x0EAHgZCflGP2O9s1wKEnMED8t5EQ/T0KvHto3x+L0YtAwc0HA2VpPCNIOTQiTh8BbVjooOPyXttpQ6yqnwGCluOM8LPUdBbXtMWgye8dVPtdL5w8e78KirljI5V29q+NND3jbNu8CuVSP7T+2dWzOEFRW3lA55CNxNSlZAHWcPzu2LwXE1Bylkp07TDQ0osrdCbyQVRNrnHOMXMoIxCLF9C3nd62do7IGBZ2Mq5jdlJeI93DgaJGDQqFs/tD6lKrF7knGXX2B4te8WugSI+H3m5eoi7I40JLPCQFQCOXbDNwgzd2ahtnmqdyRE2DN5ptyld/xYxLjf/BcBlqmSLtJACH73jRq4Ke9g84sAhnQxglfpCmGlAbK1/NLW31yTEnJm++lDiI3ekg+qMyhjAIGX7NURWWkS+SUM1ugUBU=");
+<?php return [
+    /*
+    |--------------------------------------------------------------------------
+    | Authentication Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used during authentication for various
+    | messages that we need to display to the user. You are free to modify
+    | these language lines according to your application's requirements.
+    |
+    */
+
+    'failed' => 'login.failed',
+    'throttle' => 'login.throttle',
+];

@@ -1,3 +1,5 @@
+
+
 <?php $__env->startPush('head'); ?>
     <script id="widget-script">
         window.integrationScriptShow = <?php echo json_encode($scriptToShow); ?>

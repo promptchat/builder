@@ -1,2 +1,146 @@
-<?php 
- return Encryption\Decryptor::decrypt("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");
+<?php return [
+    /*
+    |--------------------------------------------------------------------------
+    | Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines contain the default error messages used by
+    | the validator class. Some of these rules have multiple versions such
+    | as the size rules. Feel free to tweak each of these messages here.
+    |
+    */
+
+    'accepted' => 'The :attribute must be accepted.',
+    'active_url' => 'The :attribute is not a valid URL.',
+    'after' => 'The :attribute must be a date after :date.',
+    'after_or_equal' => 'The :attribute must be a date after or equal to :date.',
+    'alpha' => 'The :attribute may only contain letters.',
+    'alpha_dash' => 'The :attribute may only contain letters, numbers, dashes and underscores.',
+    'alpha_num' => 'The :attribute may only contain letters and numbers.',
+    'array' => 'The :attribute must be an array.',
+    'before' => 'The :attribute must be a date before :date.',
+    'before_or_equal' => 'The :attribute must be a date before or equal to :date.',
+    'between' => [
+        'numeric' => 'The :attribute must be between :min and :max.',
+        'file' => 'The :attribute must be between :min and :max kilobytes.',
+        'string' => 'The :attribute must be between :min and :max characters.',
+        'array' => 'The :attribute must have between :min and :max items.',
+    ],
+    'boolean' => 'The :attribute field must be true or false.',
+    'date' => 'The :attribute is not a valid date.',
+    'date_equals' => 'The :attribute must be a date equal to :date.',
+    'different' => 'The :attribute and :other must be different.',
+    'digits' => 'The :attribute must be :digits digits.',
+    'digits_between' => 'The :attribute must be between :min and :max digits.',
+    'dimensions' => 'The :attribute has invalid image dimensions.',
+    'distinct' => 'The :attribute field has a duplicate value.',
+    'ends_with' => 'The :attribute must end with one of the following: :values.',
+    'exists' => 'The selected :attribute is invalid.',
+    'file' => 'The :attribute must be a file.',
+    'filled' => 'The :attribute field must have a value.',
+    'gt' => [
+        'numeric' => 'The :attribute must be greater than :value.',
+        'file' => 'The :attribute must be greater than :value kilobytes.',
+        'string' => 'The :attribute must be greater than :value characters.',
+        'array' => 'The :attribute must have more than :value items.',
+    ],
+    'gte' => [
+        'numeric' => 'The :attribute must be greater than or equal :value.',
+        'file' => 'The :attribute must be greater than or equal :value kilobytes.',
+        'string' => 'The :attribute must be greater than or equal :value characters.',
+        'array' => 'The :attribute must have :value items or more.',
+    ],
+    'image' => 'The :attribute must be an image.',
+    'in_array' => 'The :attribute field does not exist in :other.',
+    'integer' => 'The :attribute must be an integer.',
+    'ip' => 'The :attribute must be a valid IP address.',
+    'ipv4' => 'The :attribute must be a valid IPv4 address.',
+    'ipv6' => 'The :attribute must be a valid IPv6 address.',
+    'json' => 'The :attribute must be a valid JSON string.',
+    'lt' => [
+        'numeric' => 'The :attribute must be less than :value.',
+        'file' => 'The :attribute must be less than :value kilobytes.',
+        'string' => 'The :attribute must be less than :value characters.',
+        'array' => 'The :attribute must have less than :value items.',
+    ],
+    'lte' => [
+        'numeric' => 'The :attribute must be less than or equal :value.',
+        'file' => 'The :attribute must be less than or equal :value kilobytes.',
+        'string' => 'The :attribute must be less than or equal :value characters.',
+        'array' => 'The :attribute must not have more than :value items.',
+    ],
+    'max' => [
+        'numeric' => 'The :attribute may not be greater than :max.',
+        'file' => 'The :attribute may not be greater than :max kilobytes.',
+        'string' => 'The :attribute may not be greater than :max characters.',
+        'array' => 'The :attribute may not have more than :max items.',
+    ],
+    'mimes' => 'The :attribute must be a file of type: :values.',
+    'mimetypes' => 'The :attribute must be a file of type: :values.',
+    'min' => [
+        'numeric' => 'The :attribute must be at least :min.',
+        'file' => 'The :attribute must be at least :min kilobytes.',
+        'string' => 'The :attribute must be at least :min characters.',
+        'array' => 'The :attribute must have at least :min items.',
+    ],
+    'not_in' => 'The selected :attribute is invalid.',
+    'not_regex' => 'The :attribute format is invalid.',
+    'password' => 'The password is incorrect.',
+    'present' => 'The :attribute field must be present.',
+    'required_unless' => 'The :attribute field is required unless :other is in :values.',
+    'required_with' => 'The :attribute field is required when :values is present.',
+    'required_with_all' => 'The :attribute field is required when :values are present.',
+    'required_without' => 'The :attribute field is required when :values is not present.',
+    'required_without_all' => 'The :attribute field is required when none of :values are present.',
+    'same' => 'The :attribute and :other must match.',
+    'size' => [
+        'numeric' => 'The :attribute must be :size.',
+        'file' => 'The :attribute must be :size kilobytes.',
+        'string' => 'The :attribute must be :size characters.',
+        'array' => 'The :attribute must contain :size items.',
+    ],
+    'starts_with' => 'The :attribute must start with one of the following: :values.',
+    'timezone' => 'The :attribute must be a valid zone.',
+    'uploaded' => 'The :attribute failed to upload.',
+    'url' => 'The :attribute format is invalid.',
+    'uuid' => 'The :attribute must be a valid UUID.',
+    'required' => 'validation.required',
+    'date_format' => 'validation.invalid-format',
+    'string' => 'validation.invalid-value',
+    'numeric' => 'validation.numeric',
+    'required_if' => 'validation.required',
+    'in' => 'validation.invalid-value',
+    'regex' => 'validation.invalid-format',
+    'unique' => 'validation.unique',
+    'confirmed' => 'validation.password-confirmation-does-not-match',
+    'email' => 'validation.email',
+    /*
+    |--------------------------------------------------------------------------
+    | Custom Validation Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | Here you may specify custom validation messages for attributes using the
+    | convention "attribute.rule" to name the lines. This makes it quick to
+    | specify a specific custom language line for a given attribute rule.
+    |
+    */
+
+    'custom' => [
+        'attribute-name' => [
+            'rule-name' => 'custom-message',
+        ],
+    ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | Custom Validation Attributes
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used to swap our attribute placeholder
+    | with something more reader friendly such as "E-Mail Address" instead
+    | of "email". This simply helps us make our message more expressive.
+    |
+    */
+
+    'attributes' => [],
+];

@@ -1,3 +1,5 @@
+
+
 <?php $__env->startSection('body'); ?>
     <div
         id="app"

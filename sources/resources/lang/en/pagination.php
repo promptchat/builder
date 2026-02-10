@@ -1,2 +1,15 @@
-<?php 
- return Encryption\Decryptor::decrypt("jbiIqKvN7eys4oWe3C4iFDBrJNCglexkbbi+zVDk5H59KtQ0OXUcsN3NT2Ya3begUOTjszC1dShvDkJkoiEI1dMW6iMYr1/421KapH0PtZG7X993DFfG67gi6pyzYVFfGPVgY2SJ8eVWNl7SbCprOl15YDklFZybQm1VrsZ41WebQFCObHr9PAtfisxMTbibV3qu6Sn6u8UAMnRRSIqHRP/IlsSE9CLBsSH7BnMQi+hiOz8aAAI5h8PuMXE/xABkC5unDrbbkqV2Hx13Qz4jgW18ElAc+ljOxdqIea2h4HCIm2lDExnZoNVaPzlc4K1ERFTWb+Vdl91I+tFeTCvgZHvPRP36vtRwGk7FXDY14UY3GEegF50ux+v2N90+eATfkFVYHtIaTAjX0tFHEm4kKK6OudoZ5D6nx3froOM9P+AGE/u5OCciLthYKLQEslw0s8L25kHI+1GjqO5PSnuaJe4NrACR53H4fGDEW1MX3m0/4nN8JjVZEmjZLnOnYFDU2Q/l1aF0TXwwvY+JAO6UXkprmzqPVKRBgnvvqC2+OKSdoLsNAtjYqNnQhpGd/3ipfp3NXr057ZPvkr3W9AfVEimMp9qnSugSL/DzlJbrk6kkzdyJClFOBPfPEccqzpb+0orog4C7E2CRzJF9v/X7bDjJeKAOQwupRqdWQmXhwClz5uywndwqVxfm1QVFqCLUyyvG/fNLXCk9UEPFm6TgFDwqYyZ8vNfmwx5JWq5JETb8LdyIFQ==");
+<?php return [
+    /*
+    |--------------------------------------------------------------------------
+    | Pagination Language Lines
+    |--------------------------------------------------------------------------
+    |
+    | The following language lines are used by the paginator library to build
+    | the simple pagination links. You are free to change them to anything
+    | you want to customize your views to better match your application.
+    |
+    */
+
+    'previous' => '&laquo; Previous',
+    'next' => 'Next &raquo;',
+];

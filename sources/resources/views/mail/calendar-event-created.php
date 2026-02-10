@@ -1,3 +1,5 @@
+
+
 <?php $__env->startSection('content'); ?>
     <p><?php echo t('mail.thank_you_for_your_request_for_appointment_on'); ?> <a href="<?php echo e($host); ?>"><?php echo e($host); ?></a></p>
 

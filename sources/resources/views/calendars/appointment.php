@@ -1,3 +1,4 @@
+
 <?php $__env->startPush('head'); ?>
     <script id="widget-script">
         window.calendarId = <?php echo $calendar->id; ?>
