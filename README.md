@@ -1,1 +1,1 @@
-[DOCUMENTATION](https://web.promptchat.com/self-hosted-installation)
+[DOCUMENTATION](https://promptchat.net/)
